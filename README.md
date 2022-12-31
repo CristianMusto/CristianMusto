@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👽 About Me:
 I am a young junior front-end developer strongly interested in the design and user experience part, <br>with good knowledge of the logical part of a website and a strong desire to learn everything about this fantastic job.
 
 
